@@ -10,7 +10,7 @@ In this work, we propose an ofine framework to achieve precise localization on a
 <img src="fig/sample.png" width = "800" />
 </div>
 
-#TODO
+# TODO
 - Code
 - Trained model
 - Prerequisites
