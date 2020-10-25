@@ -12,6 +12,6 @@ In this work, we propose an ofine framework to achieve precise localization on a
 </div>
 
 #TODO
-
-trained model
-Prerequisites
+- Code
+- Trained model
+- Prerequisites
