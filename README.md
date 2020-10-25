@@ -14,3 +14,4 @@ In this work, we propose an ofine framework to achieve precise localization on a
 - Code
 - Trained model
 - Prerequisites
+- Demo
