@@ -8,7 +8,7 @@ In this work, we propose an ofine framework to achieve precise localization on a
 
 # Illustration
 <div  align="center">    
-<img src="fig/sample.png" width = "500" />
+<img src="fig/sample.png" width = "800" />
 </div>
 
 #TODO
